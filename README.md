@@ -1,8 +1,8 @@
---- Python Basic Calculator ---
+**--- Python Basic Calculator ---**
 
 This is a simple command-line calculator built in Python that supports basic arithmetic operations like multiplication, addition, subtraction, division, and exponentiation (power).
 
---- Features ---
+**--- Features ---**
 
 Multiplication: Multiplies two numbers.
 
@@ -14,25 +14,25 @@ Division: Divides the first number by the second, with error handling for divisi
 
 Power: Raises the first number to the power of the second.
 
-To run the calculator, follow these steps:
+**To run the calculator, follow these steps:**
 
-Clone this repository:
+*Clone this repository:*
 
 git clone https://github.com/p10shi/calculator-python.git
 
-Navigate into the project directory:
+*Navigate into the project directory:*
 
 cd calculator-python
 
-Run the calculator program:
+*Run the calculator program:*
 
 calculadora.py
 
---- Usage ---
+**--- Usage ---**
 
 Once you run the program, you'll see a list of operations to choose from. Enter the corresponding number to select the operation, then input two numbers to perform the calculation.
 
---- Operations ---
+**--- Operations ---**
 
 1: Multiplication
 
@@ -44,7 +44,7 @@ Once you run the program, you'll see a list of operations to choose from. Enter 
 
 5: Power (Exponentiation)
 
-Usage example:
+*Usage example:*
 
 Operations list.
 ----------------
@@ -65,7 +65,7 @@ Do you want to do another operation? (yes/no) yes
 
 You can continue performing calculations or exit by entering no.
 
--- Contributing --
+**-- Contributing --**
 
 If you'd like to contribute to this project, feel free to fork it, make improvements, and submit pull requests!
 
