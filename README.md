@@ -63,7 +63,7 @@ Enter the second number: 3
 
 Do you want to do another operation? (yes/no) yes
 
-You can continue performing calculations or exit by entering no.
+*You can continue performing calculations or exit by entering no.*
 
 **-- Contributing --**
 
